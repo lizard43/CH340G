@@ -1,0 +1,1 @@
+cmd_/media/d/A8C0-05DE/arduino/ch340g/ch34x.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.11.0-12-generic/scripts/module-common.lds --build-id  -o /media/d/A8C0-05DE/arduino/ch340g/ch34x.ko /media/d/A8C0-05DE/arduino/ch340g/ch34x.o /media/d/A8C0-05DE/arduino/ch340g/ch34x.mod.o
