@@ -16,4 +16,5 @@ Diff the ch34x.c files to see what I'm talking about.
 To build and install just do:
 
 make
+
 make load
